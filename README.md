@@ -21,5 +21,5 @@ ThinkorSwim
 Excel  
 SQL  
 Pandas  
-API's
+API's  
 Tableau
