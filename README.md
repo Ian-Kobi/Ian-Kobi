@@ -1,6 +1,6 @@
 ## Welcome to my github! 👋 
 I'm a recent Mathematics Graduate with a background in Quantitative Analysis and Aerospace Engineering.
-### Coding Languages:
+### <ins>Coding Languages:</ins>
 
 Python  
 Java  
