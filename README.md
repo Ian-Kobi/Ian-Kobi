@@ -8,7 +8,7 @@ Batch Script
 Pine Script  
 ThinkScript  
 
-### Coding IDE's:
+### <ins>Coding IDE's:</ins>
 
 Pycharm  
 IntelliJ  
@@ -16,10 +16,10 @@ Notepad
 Pine Editor  
 ThinkorSwim  
 
-### Other Experience:
+### <ins>Other Helpful Experience:</ins>
 
-Excel  
-SQL  
+Excel    
 Pandas  
-API's  
+API's
+SQL  
 Tableau
