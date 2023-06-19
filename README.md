@@ -3,10 +3,10 @@ I'm a recent Mathematics Graduate with a background in Quantitative Analysis and
 ## Coding Languages:
 
 Python
-Java
-Batch Script
-Pine Script
-ThinkScript
+Java  
+Batch Script  
+Pine Script  
+ThinkScript  
 
 ## Coding IDE's:
 
