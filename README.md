@@ -16,3 +16,9 @@ Notepad
 Pine Editor  
 ThinkorSwim  
 
+### Other Experience:
+
+Excel  
+SQL  
+Pandas  
+API's
