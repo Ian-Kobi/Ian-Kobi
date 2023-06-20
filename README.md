@@ -20,6 +20,6 @@ I'm a recent Mathematics graduate with a background in Quantitative Analysis and
 
 -Excel    
 -Pandas  
--API's  
+-APIs  
 -SQL  
 -Tableau
