@@ -18,11 +18,11 @@ I'm a recent Mathematics graduate with a background in Quantitative Analysis and
 
 ### 🗝 <ins>Other Helpful Experience:</ins>
 
--Excel (macros/VBA, vlookups, pivot tables)
--Pandas 
--Matplotlib
--APIs
--Ngrok
+-Excel (macros/VBA, vlookups, pivot tables)  
+-Pandas  
+-Matplotlib  
+-APIs  
+-Ngrok  
 -SQL  
--Tableau
+-Tableau  
 -Power BI
