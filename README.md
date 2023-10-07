@@ -6,7 +6,7 @@ I'm a recent Mathematics graduate with a background in Quantitative Analysis and
 -Java  
 -Batch Script  
 -Pine Script  
--ThinkScript  
+-ThinkScript
 
 ### 🛠 <ins>Coding IDE's:</ins>
 
@@ -18,8 +18,11 @@ I'm a recent Mathematics graduate with a background in Quantitative Analysis and
 
 ### 🗝 <ins>Other Helpful Experience:</ins>
 
--Excel    
--Pandas  
--APIs  
+-Excel (macros/VBA, vlookups, pivot tables
+-Pandas 
+-Matplotlib
+-APIs
+-Ngrok
 -SQL  
 -Tableau
+-Power BI
