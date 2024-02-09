@@ -11,7 +11,7 @@ I'm a recent Mathematics graduate with a background in Quantitative Analysis and
 -SQL  
 -HTML  
 
-### 🛠 <ins>Other Helpful Tools Used:</ins>
+### 🛠 <ins>Helpful Tools Used:</ins>
 
 -APIs, Webhooks, Ngrok, BeautifulSoup (for pulling data from online or webscraping)  
 -SQL (for querying when working with big data)  
