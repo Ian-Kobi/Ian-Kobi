@@ -13,10 +13,9 @@ I'm a recent Mathematics graduate with a background in Quantitative Analysis and
 
 ### 🛠 <ins>Other Helpful Tools:</ins>
 
--APIs, Webhooks, Ngrok, BeautifulSoup (for pulling data from online or webscraping)
--SQL (for querying when working with big data)
+-APIs, Webhooks, Ngrok, BeautifulSoup (for pulling data from online or webscraping)  
+-SQL (for querying when working with big data)  
 -Excel (macros/VBA, vlookups, pivot tables, Power Query)  
--Pandas (for cleaning and organizing data)
--Tableau, Power BI, Matplotlib, Excel charts (for data visualization)
--auto-py-to-exe (for creating my own software and sharing it with others)
-
+-Pandas (for cleaning and organizing data)  
+-Tableau, Power BI, Matplotlib, Excel charts (for data visualization)  
+-auto-py-to-exe (for creating my own software and sharing it with others)  
